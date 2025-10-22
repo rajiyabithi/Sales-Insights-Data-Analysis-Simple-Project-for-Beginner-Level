@@ -116,12 +116,14 @@ Order by Total_Purchase_Amount DESC
 <img width="319" height="157" alt="image" src="https://github.com/user-attachments/assets/4f652181-7d5e-456c-a26a-46c29aab0401" />
 
 
-## RESULT
+## Excel Dashboard
 
-### Excel Dashboard
+
 <img width="700" height="581" alt="image" src="https://github.com/user-attachments/assets/a0b1564c-b669-4a4c-bf50-3215a997bc11" />
 
-### Power BI Dashboard
+## Power BI Dashboard
+
+
 <img width="700" height="581" alt="image" src="https://github.com/user-attachments/assets/eeea8ef5-053e-426b-b158-b07a50bee028" />
 
 
@@ -129,7 +131,7 @@ Order by Total_Purchase_Amount DESC
 
 
 
-### Tableau Dashboard
+## Tableau Dashboard
 
 <img width="700" height="581" alt="image" src="https://github.com/user-attachments/assets/d0036c69-8974-49cd-8ca0-bff307019225" />
 
