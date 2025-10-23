@@ -2,7 +2,7 @@
 This project features an interactive sales dashboard developed using SQL, Excel, and Power BI to analyze retail performance over the past four years. It enables users to filter data by year and product category, providing an in-depth view of business trends. The dashboard highlights key metrics such as total revenue by year, sales distribution and units sold by category. Overall, it offers a clear, data-driven understanding of sales patterns, helping identify high-performing categories. 
 
 ### Source Data
-The dashboard is built using single dataset which was synthetically generated using AI to simulate realistic sales transactions for analysis and visualization purposes.
+The dashboard is built using single dataset which was synthetically generated using AI to simulate realistic sales data for analysis and visualization purposes.
 - sales_data.csv – contains information about sales such as: Product ID, Order ID, Product Name, Customer ID, Customer Name, Quantity, Order Date, Unit Price, Total Price, Category.
 
 ## Tools Used:
